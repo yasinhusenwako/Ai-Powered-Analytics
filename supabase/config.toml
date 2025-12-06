@@ -1,0 +1,19 @@
+project_id = "umqmdpibopqojyftjoew"
+
+[functions.data-upload]
+verify_jwt = true
+
+[functions.ai-insights]
+verify_jwt = true
+
+[functions.kpi-metrics]
+verify_jwt = true
+
+[functions.charts]
+verify_jwt = true
+
+[functions.chat-sessions]
+verify_jwt = true
+
+[functions.user-settings]
+verify_jwt = true
